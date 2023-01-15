@@ -1,4 +1,4 @@
-# ReplyChallenkge2022
+# ReplyChallenge2022
 
 This is my code for the Reply Challenge Code 2022, standard edition. This algorithm is basically a greedy with a custom "weight" condition. Even though it's not the best way to solve the problem, it was enough to boost my team (Klementine) to the top 10%.
 #
